@@ -1,7 +1,5 @@
 # hello-world
 
-This is a hello-world repository.
-
 Hello my fellow web gremlins,
 
 My name is Gleb, and I oringinally hail from the land of Russia. I lived there until the tender age of nine, when my mother and I immigrated to the United States.
